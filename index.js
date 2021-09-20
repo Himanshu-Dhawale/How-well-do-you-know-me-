@@ -33,10 +33,22 @@ var questions = [{
   question: 'My favorite superhero would be?\n a) Superman\n b) Batman\n c) Saitama\n', 
   answer:'c'
 }, 
+
 {
   question:'Which is my favorite food?\na) Dosa\nb) Biryani\nc) PaniPuri\n', 
   answer:'a'
-}
+},
+{
+  question:'Which is my favorite sport\na)Cricket\nb)Boxing\nc)Football\n', 
+  answer:'b'
+},
+{
+  question:'Who is my favorite athlete\na)Floyd Mayweather\nb)Muhammad Ali\nc)Mike Tyson\n', 
+  answer:'a'
+},
+
+
+
 
   ];
   
