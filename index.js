@@ -37,7 +37,7 @@ var questions = [{
   }, 
   { 
     question:"4)Which are my favorite folk-tales\n a: Akbar-Birbal \n b:Vikram-Betal\n c: Mulla Nasruddin\n d: All of Them\n", 
-    answer:"d😅"
+    answer:"d"
 }, 
 {
   question:"5)Which is my favorite sport?\n a: Boxing\n b: Cricket\n c: Football\n d: Basketball\n", answer:"a"
